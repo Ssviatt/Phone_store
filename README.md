@@ -34,3 +34,6 @@ This project is a web application, the Phone Store, developed using React TS, SC
 1. Clone the repository: `git clone https://github.com/Ssviatt/Phone_store.git`
 2. Install dependencies: `npm install`
 3. Run the application: `npm start`
+
+## Demo
+- [DEMO LINK](https://ssviatt.github.io/Phone_store/)
